@@ -1,0 +1,4 @@
+{
+    "dataFileName": "dest\\data\\counter-data.json",
+    "labelFileName": "dest\\output\\counter-label.txt"
+}
