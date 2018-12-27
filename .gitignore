@@ -61,7 +61,7 @@ typings/
 .next
 
 #output directory
-dest
+dest/
 
 # vscode directory
-.vscode
+.vscode/
